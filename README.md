@@ -142,7 +142,7 @@ docker-compose up --build
 
 If that doesn't work, try running it without the dash:
 ```bash
-docker compose up --build
+docker compose up --build 
 ```
 
 
